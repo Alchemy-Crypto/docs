@@ -1,54 +1,25 @@
-<style type="text/css">
-    .center{
-        display: block;
-        margin-left: auto;
-        margin-right: auto;
-        width: 30%;
-    }
-</style>
-<img src="./assets/small_logo.png" alt="quack logo" class="center"/>
+# Get to know the QuackChain Developers
 
-# Quack Slack App & Ethereum Token
+## Dylan White
 
-## What is Quack?
+Dylan White is a musician, artist and general nerd, currently honing software development skills at Alchemy Code Lab. Interested in exploring the intersection of art, interactivity and web development. Hoping to contribute to a more interesting, vibrant and accessible internet for the future.
 
-Quack is a digital currency built on the the Etheruem ERC-20 standard. It will be deployed to an Ethereum testnet and used as a workspace specific currency in Slack.
+-   Connect with Dylan: [GitHub](https://github.com/glass-waves) | [LinkedIn](https://www.linkedin.com/in/dylan-j-white/) | [Twitter](https://twitter.com/GlassWavs)
 
-## What is the purpose of Quack?
+## Julianne Vela
 
-Quack Slack App will allow members of the workspace to show appreciation for one another by tipping, use the coins to show support for proposals and hopefully purchase digital artwork created by other members. This will incentivize acts of appreciation, encourage camaraderie and make Slack more fun and interactive.
+Julianne Vela is a neurodivergent Full-Stack Software Engineer that strives to break barriers and leave everything better off than when she found it. She is still new to cryptocurrency, but is SO excited to see this advancement in our community.
 
-<hr>
+-   Connect with Julianne: [GitHub](https://www.github.com/julianne-vela) | [LinkedIn](https://www.linkedin.com/in/juliannevela/) | [Portfolio](https://www.juliannevela.dev) (in-progress) | [Twitter](https://www.twitter.com/NessimaSkye)
 
-## Quack Creators
+## Anthony Rosario
 
--   Dylan White
-    -   [GitHub](https://github.com/glass-waves) | [LinkedIn](https://www.linkedin.com/in/dylan-j-white/) | [Twitter](https://twitter.com/GlassWavs)
--   Julianne Vela
-    -   [GitHub](https://www.github.com/julianne-vela) | [LinkedIn](https://www.linkedin.com/in/juliannevela/) | [Porfolio](https://www.juliannevela.dev) (in-progress) | [Twitter](https://www.twitter.com/NessimaSkye)
--   Anthony Rosario
-    -   [GitHub](https://github.com/Anthony-Rosario) | [LinkedIn](https://www.linkedin.com/in/anthony-rosario/)
--   Minh Ngo
-    -   [GitHub](https://github.com/ngominh0224) | [LinkedIn](https://www.linkedin.com/in/minhnngo/)
+Anthony Rosario is a dedicated problem-solver with a passion for web development and back-end engineering. Building a solid framework of UX design in a collaborative environment. Hoping to make Quacks the end all universal cryptocurrency.
 
-<hr>
+-   Connect with Anthony: [GitHub](https://github.com/Anthony-Rosario) | [LinkedIn](https://www.linkedin.com/in/anthony-rosario/)
 
-## User Stories
+## Minh Ngo
 
--   As a workspace user, I would like to be able to earn tokens.
-    -   User can accumulate Quacks (tokens) by completing challenges.
-    -   Make user aware of different options to acquire Quacks (tokens).
-    -   Be able to receive tokens form other workspace users via tips.
--   As a workspace user I would like to be able to send/tip tokens to other users.
-    -   User can send other users and administrators Quacks (tokens) as tips.
-    -   Ability to view completion of transaction.
-    -   Ability to send to multiple users in single transaction.
-    -   Able to withdraw tokens to a third party crypto wallet of their choosing (i.e MetaMask).
--   As a workspace user I would like to be able to mint tokens.
-    -   Allow users to burn Quacks (tokens) to create more Quacks.
-    -   Modal explaining token breakdown when burning and minting.
--   As a workspace user I would like to be able to view balance of tokens.
-    -   User is able to view their Quacks (tokens) balance.
--   As a workspace user I would like to be able to participate in community polls using the token.
-    -   Allow user to vote on polls presented by the community or administration.
-    -   Allow user to create a poll using tokens.
+Minh Ngo is a quick learner hoping to bring his analytical and communication skills to your team in order to help you achieve your goals. He has a passion for technology and is confident that he'll be able to adapt to any system he has yet to experience. If you're open to having a conversation with him and about what he can do for you, reach out to him below!
+
+-   Connect with Minh: [GitHub](https://github.com/ngominh0224) | [LinkedIn](https://www.linkedin.com/in/minhnngo/)
